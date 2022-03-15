@@ -1,4 +1,5 @@
-# Fmi
+# Understanding the Difference Between Tangible and Intangible Assets
+
 Visit: https://fmi.online/
 Financial Markets Institute (Fmi), which provides The Best Financial Courses Online
 An asset is something of value which is owned by a company. For companies, assets can be classified in different ways. For example, assets owned by a company can be current assets or non-current assets. Another way to classify assets are as tangible assets and intangible assets. This second way of classifying assets is the topic of today’s blog post.
